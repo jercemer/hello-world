@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Hi Earthlings this is me conquering your planet.
